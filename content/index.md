@@ -1,6 +1,6 @@
 ---
 title: All Creation, Beneath the Sword
-description: 天下布武
+description: Exalted, 3rd Edition game
 ---
 # Here's a header
 
