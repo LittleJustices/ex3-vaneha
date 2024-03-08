@@ -1,5 +1,5 @@
 ---
-title: Vaneha's Ambitions
+title: On Vaneha's Ambitions
 description: Isn't foreign policy grand
 tags:
   - unsorted

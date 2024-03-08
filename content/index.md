@@ -10,7 +10,7 @@ description: Exalted, 3rd Edition game
 > What's probable
 > is tedious and petty.
 
-—Ursula K. LeGuin, *Tao Te Ching. A Book about the Way and the Power of the Way*
+—Laozi, *Tao Te Ching* (tl. Ursula K. LeGuin and J. P. Seaton)
 # Scheduling
 
 Tentative timeslot; no set date for session 1
