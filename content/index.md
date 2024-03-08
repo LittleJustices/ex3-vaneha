@@ -23,6 +23,6 @@ Tentative timeslot; no set date for session 1
 TBA
 
 # Miscellaneous Info
-See [[Vaneha/quartz/content/unsorted/index|this other folder]] for unsorted brainstorming posted in the discord. To be prettified and organized later.
+See [[unsorted|this other folder]] for unsorted brainstorming posted in the discord. To be prettified and organized later.
 
 ![[Exalted World Map 1 85dpi.jpg]]
