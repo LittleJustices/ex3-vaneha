@@ -2,12 +2,12 @@
 title: All Creation, Beneath the Sword
 description: Exalted, 3rd Edition game
 ---
-> Everybody says my way is great
+> Everybody says my way is great  
 > but improbable.
 > 
-> All greatness
-> is improbable.
-> What's probable
+> All greatness  
+> is improbable.  
+> What's probable  
 > is tedious and petty.
 
 —Laozi, *Tao Te Ching* (tl. Ursula K. LeGuin and J. P. Seaton)
