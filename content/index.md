@@ -11,6 +11,9 @@ description: Exalted, 3rd Edition game
 > is tedious and petty.
 
 —Laozi, *Tao Te Ching* (tl. Ursula K. LeGuin and J. P. Seaton)
+
+Site image (e.g. in Discord embed): John Avon, Honden of Infinite Rage, via https://www.artofmtg.com/art/honden-of-infinite-rage/
+
 # Scheduling
 
 Next session (Session 1): **TBA**
