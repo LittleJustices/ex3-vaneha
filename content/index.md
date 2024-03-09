@@ -13,7 +13,7 @@ description: Exalted, 3rd Edition game
 —Laozi, *Tao Te Ching* (tl. Ursula K. LeGuin and J. P. Seaton)
 # Scheduling
 
-Tentative timeslot; no set date for session 1
+Next session (Session 1): **TBA**
 - **Anchorage:** Tuesday 08:00–12:00
 - **Houston/Chicago/Louisiana:** 11:00–15:00
 - **Vienna:** 18:00–22:00
