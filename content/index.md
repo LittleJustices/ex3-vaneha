@@ -27,5 +27,3 @@ TBA
 
 # Miscellaneous Info
 See [[unsorted|this other folder]] for unsorted brainstorming posted in the discord. To be prettified and organized later.
-
-![[Exalted World Map 1 85dpi.jpg]]
