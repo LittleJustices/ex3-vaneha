@@ -3,7 +3,7 @@ title: Rulings and Clarifications
 ---
 This page is for keeping track of rulings and precedents that come up. It's not a guarantee that the rulings are well-considered or that I won't change my mind if a good reason arises to do so, but it is there as a reminder for both players and GM to refer back to, and a promise that I won't arbitrarily go back on these for no good reason.
 
-# On Join Battle, Base Initiative, and Initiative Shift
+# On Join Battle, Base Initiative, Initiative Shift
 "Join Battle" refers specifically to the (Wits+Awareness)[^1] roll made at the start of combat and is separate from both the extra initiative everyone starts with (which is *always* 3) and Base Initiative (which is *generally* 3 but can be modified). This means that when you're told to roll Join Battle and add the result to your initiative at any point other than the start of combat, such as on achieving Initiative Shift of by certain Charms, this means just the raw Join Battle pool, not including either the +3 initiative at the start of combat or Base Initiative. You can still use applicable Charms to modify the roll in any way you see fit.
 
 [^1]: Unless you use some Charm to change the pool.
