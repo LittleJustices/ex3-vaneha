@@ -17,9 +17,9 @@ Site image (e.g. in Discord embed): John Avon, Honden of Infinite Rage, via http
 # Scheduling
 
 Next session (Session 1): **TBA**
-- **Anchorage:** Tuesday 08:00–12:00
-- **Houston/Chicago/Louisiana:** 11:00–15:00
-- **Vienna:** 18:00–22:00
+- **Anchorage:** Tuesdays, 08:00–12:00
+- **Houston/Chicago/Louisiana:** Tuesdays, 11:00–15:00
+- **Vienna:** Tuesdays, 18:00–22:00
 
 # Players and Characters
 
