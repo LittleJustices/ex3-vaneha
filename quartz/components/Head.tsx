@@ -15,7 +15,7 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
     const iconPath = joinSegments(baseDir, "static/icon_ex3.png")
-    const ogImagePath = `https://www.artofmtg.com/wp-content/uploads/2016/06/Honden-of-Infinite-Rage-Eternal-Masters-MtG-Art.jpg`
+    const ogImagePath = `https://${cfg.baseUrl}/static/icon_ex3.png`
 
     return (
       <head>

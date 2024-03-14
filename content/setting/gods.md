@@ -11,7 +11,7 @@ But the Ninety-Nine are not just local deities. Before they were the Uema or Iac
 # Mentioned Gods
 Here are some gods that either are mentioned in Across the Eight Directions or were proposed in the server.
 - Jieke Blooms-in-Winter, under whose auspices Clan Iachi produces wines renowned throughout the East
-- Megemi Ironhilt, patron of the Uema smiths
+- Megemi Ironhilt, patron of Clan Uema and their smiths
 - ?? the daimyo of summer rains and witness to secret contracts, who may be Clan Datei's patron
 - ?? the gateless key, god of opening and closing and unexpected visits
 - A former terrestrial garden deity who joined the Stars during their conquest, and hopes to expand into a more celestial portfolio involving beauty or poison
