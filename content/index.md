@@ -41,9 +41,7 @@ Make me 2-5 glorious solar wrecking balls and we'll watch them swing into this J
 
 Normal Solar character creation as per *Exalted Third Edition*, pp. 120ff. No particular (house) rules or restrictions pertaining to character creation at this point, but see [[rulings|here]] for miscellaneous decisions and rulings. Just note that the main book I know in and out is the core, so if you want to talk about something outside of it, make sure to tell me.
 
-This is hopefully stating the obvious but you do not need to be native to Vaneha. Just, you know, get there somehow by the start of the first session. If you *are* Vanehan, feel free to define your clan as much as you like or give me as much leave as you're comfortable with to define it for you (or have it not be a big part of your character). By default I may offer suggestions but will defer to you. The same holds for any Allies, Mentors, etc.
-
-I mildly favor artifacts showing up in play but will not stop or discourage you from starting with any. It's *always* okay to discuss with me things you'd be interested in having happen to your character, appearing in play, etc.
+This is hopefully stating the obvious but you do not need to be native to Vaneha. Just, you know, get there somehow by the start of the first session. If you *are* Vanehan, feel free to define your clan as much as you like or give me as much leave as you're comfortable with to define it for you (or have it not be a big part of your character). By default I may offer suggestions but will defer to you unless you tell me otherwise. The same holds for any Allies, Mentors, etc.
 
 Should you have trouble writing down or wording intimacies, my advice is to
 - review the descriptions on p. 215 of what a given strength of intimacy means; and
