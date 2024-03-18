@@ -4,6 +4,10 @@ draft: false
 tags: []
 ---
 
+> Pombo the idolater took a stick and suddenly turned iconoclast. 
+
+—Lord Dunsany, *The Book of Wonder*
+
 Each [[clans|clan]] has its patron god. By definition, this is the terrestrial god of that clan's lands and spiritual parent to all, from feudal lord to starving commoner, who live in that region. Thus that region's inhabitants also form its god's cult. Much like the Sword Princes manage little land themselves but levy taxes on the clans, few pray directly to the First and Hundredth, but they take a tithe of all prayer meant for the clan gods.
 
 But the Ninety-Nine are not just local deities. Before they were the Uema or Iachi gods, they were gods of forge-fire or enduring life, celestial divinities who supplanted the court of earthly spirits that originally presided over the lands around Ama-Ni-Traya. Thus while every clan has farmers, artisans, and merchants, its patron's nature and interests color its internal culture and its role in the Vanehan whole.
