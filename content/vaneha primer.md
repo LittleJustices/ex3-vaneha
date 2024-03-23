@@ -1,5 +1,6 @@
 ---
 title: Vaneha at a Glance
+description: Vaneha and its outside relations
 ---
 
 > The expert in warfare says:  
@@ -12,7 +13,7 @@ I’d retreat a foot.
 
 Much of this information is synthesized and paraphrased from the corebook and Across the Eight Directions (with some additions and modifications based on what has been discussed in the server) as a primer.
 
-![[vanehamapv2.jpg]]
+![[setting/vanehamapv2.jpg]]
 
 # Kin, Land, and Spirit
 
