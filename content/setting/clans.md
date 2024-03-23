@@ -15,6 +15,6 @@ As the ruling families are their clan's elders, so is the Sword Prince's line se
 These clans have been mentioned in setting material outside the corebook:
 
 - Clan Iachi rules the rolling hills of Orm. Its clan leader is Tesero and its tutelary deity is Jieke Blooms-in-Winter
-- Clan Uema rules in the city of Noru, where anvils ring day and night. The clan's eldest is the warrior-poet Sen and one of Gensuji's hostages in Jibei. Its patron is the forge-god Megemi Ironhilt
+- Clan Uema rules in the city of Noru, where anvils ring day and night. The clan's eldest daughter is the warrior-poet Sen and one of Gensuji's hostages in Jibei. Its patron is the forge-god Megemi Ironhilt
 - Clan Datei has lost its ancestral holdings but still exists, employed by other clans—except the Iachi, on account of an ancient feud—as spies and assassins
 - Clan Atsei, whose "famed gardens bloom year-round in lakeside Osai"
