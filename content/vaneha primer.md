@@ -12,7 +12,7 @@ I’d retreat a foot.
 
 Much of this information is synthesized and paraphrased from the corebook and Across the Eight Directions (with some additions and modifications based on what has been discussed in the server) as a primer.
 
-A map will go somewhere on this page when I get around to finishing and scanning it.
+![[vanehamapv2.jpg]]
 
 # Kin, Land, and Spirit
 
