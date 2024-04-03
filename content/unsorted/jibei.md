@@ -12,3 +12,9 @@ Out of sight, out of mind. Also fewer big gathering places for angry commoners, 
 The Sword Princes haven't felt the need to march an army through their own city yet since their latest period of centralized power began so it's worked out so far.
 
 As in the current one and his predecessors. There aren't multiple sword princes at one time or anything
+
+![[jibeirough.jpg]]
+\[08:31]Atiye: I have no idea if any of this is legible
+\[08:35]Atiye: The books mention symmetry in jibei's design but sue me asymmetry is visually interesting. Plus you can still have a feeling of symmetry in certain fractal patterns or symmetry within an asymmetric layout
+\[08:36]Atiye: Maybe the dragon-backed manse should instead be where the stream that goes into that border canal springs out of the mountain
+\[08:52]Atiye: South's an unlucky direction, especially southwest. Just look at what's left of Laris, or at those weirdo spirit-fuckers in Serpolet and the raids they face from _their_ south. So you have a sacred mountain and a sacred lake to the south, blocking and cleansing any bad mojo from there. Water off the mountain is channeled around the city to ward and bless it in all directions
