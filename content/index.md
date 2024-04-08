@@ -21,7 +21,7 @@ Next session (Session 1): **TBA**
 
 # Players and Characters
 
-TBA
+☼ [Raizo the Urchin Prince](https://docs.google.com/document/d/1GvIo8-rl6z_p_3gyTR6fYdySoik8F3kjiUWv-hPwglA/edit)
 
 # On the Edge of a Sword (Or, Game Pitch)
 
