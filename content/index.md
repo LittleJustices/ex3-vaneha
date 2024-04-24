@@ -16,12 +16,13 @@ description: Exalted, 3rd Edition game
 
 Next session (Session 1): **TBA**
 - **Anchorage:** Tuesdays, 08:00–12:00
-- **Houston/Chicago/Louisiana:** Tuesdays, 11:00–15:00
+- **Houston/Chicago:** Tuesdays, 11:00–15:00
 - **Vienna:** Tuesdays, 18:00–22:00
 
 # Players and Characters
 
-☼ [Raizo the Urchin Prince](https://docs.google.com/document/d/1GvIo8-rl6z_p_3gyTR6fYdySoik8F3kjiUWv-hPwglA/edit)
+☼ [Raizo the Urchin Prince](https://docs.google.com/document/d/1GvIo8-rl6z_p_3gyTR6fYdySoik8F3kjiUWv-hPwglA/edit)  
+⦿ [Datei ma Kagemori](https://docs.google.com/document/d/1pabRieiPCZlwwXlzMaEjZqWFV8v9M1tPsGSPlCyKfTM/edit)
 
 # On the Edge of a Sword (Or, Game Pitch)
 
