@@ -12,6 +12,7 @@ description: Exalted, 3rd Edition game
 
 —Laozi, *Tao Te Ching* (tl. Ursula K. LeGuin and J. P. Seaton)
 
+%% This is a comment %%
 # Scheduling
 
 Next session (Session 1): **TBA**
@@ -38,7 +39,7 @@ And the Sun turns its face to Creation, blazing on the brows of heroes. They wil
 
 ## Character Creation
 
-Make me 2-5 glorious solar wrecking balls and we'll watch them swing into this Jenga tower and pick up the pieces together.
+Make me 2–5 glorious solar wrecking balls and we'll watch them swing into this Jenga tower and pick up the pieces together.
 
 Normal Solar character creation as per *Exalted Third Edition*, pp. 120ff. No particular (house) rules or restrictions pertaining to character creation at this point, but see [[rulings|here]] for miscellaneous decisions and rulings. Just note that the main book I know in and out is the core, so if you want to talk about something outside of it, make sure to tell me.
 
