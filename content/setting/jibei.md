@@ -2,6 +2,12 @@
 title: Jibei, City of the Sword
 draft: false
 ---
+> Great Edo—
+> even for a monkey without tricks,
+> spring blossoms.
+
+—Kobayashi Issa (tl. David G. Lanoue)
+
 None doubt that Jibei is the most beautiful city in all Vaneha, and some say the same for the River Province, the East, the Threshold, or Creation. Aesthetics and chauvinism aside, it is inarguably an exceptional city. The splendor of the Sword Princes' city is a product of its location and the ingenuity of its architect-geomancers who are driven always by the necessity of harnessing Ama-ni-Traya's momentous essence flows and directing them to the benefit of the people who call it their home and the center of the world. It is both old and new, built between a manse as old as history and a lake much older still, yet rebuilt frequently in response to shifts in the dragon lines—or to being sacked in one of Vaneha's internal wars.
 
 Today, Jibei sprawls across terraces that spiral down from the imperial dragon-backed manse on the mountain's northeastern slope to meet the waters of Agate Lake's northeastern shore where it nestles long and narrow against Ama-ni-Traya. The sacred stream that flows out of the manse is directed around the city by a series of canals demarcating the city proper. It is this stream that channels the mountain's essence safely as a protective ward. Dozens of smaller aqueducts, arranged in fractal branching patterns, guide portions of the water through the city, dividing clan residences and districts, cleansing filth spiritual and physical (this is also the city's wastewater system), and nourishing the abodes of clan deities before themselves emptying into the lake.
