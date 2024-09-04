@@ -30,7 +30,7 @@ Beneath the closest allies of the Imperial Daiklave reside those clans who are l
 
 ## The Low Shore
 
-Disgraced or impoverished clans, middling merchants, laborers, and all descriptions of rabble make their homes in the stretch of city reaching from the lake's shore to about halfway up the slope. This is not to day the lower city is ugly or shabby. Even poor clans must keep their estates up to certain standards (an expense which, not coincidentally, tends to keep them poor). Polluting the city is an offense, and building codes are enforced, albeit with varying zeal. Those who cannot afford a traditional Vanehan home of their own can find lodging in affordable if cramped rowhouses closer to the waterfront—or they move outside the city proper altogether.
+Disgraced or impoverished clans, middling merchants, laborers, and all descriptions of rabble make their homes in the stretch of city reaching from the lake's shore to about halfway up the slope. This is not to say the lower city is ugly or shabby. Even poor clans must keep their estates up to certain standards (an expense which, not coincidentally, tends to keep them poor). Polluting the city is an offense, and building codes are enforced, albeit with varying zeal. Those who cannot afford a traditional Vanehan home of their own can find lodging in affordable if cramped rowhouses closer to the waterfront—or they move outside the city proper altogether.
 
 ## Outside Looking In
 
