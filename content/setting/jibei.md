@@ -2,8 +2,8 @@
 title: Jibei, City of the Sword
 draft: false
 ---
-> Great Edo—
-> even for a monkey without tricks,
+> Great Edo—  
+> even for a monkey without tricks,  
 > spring blossoms.
 
 —Kobayashi Issa (tl. David G. Lanoue)
