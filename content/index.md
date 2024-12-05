@@ -15,10 +15,10 @@ description: Exalted, 3rd Edition game
 %% This is a comment %%
 # Scheduling
 
-Next session (Session 1): **TBA**
-- **Anchorage:** Tuesdays, 08:00–12:00
-- **Houston/Chicago:** Tuesdays, 11:00–15:00
-- **Vienna:** Tuesdays, 18:00–22:00
+Next session (Session 1): **Tuesday, 2025-01-07**
+- **Anchorage:** Tuesdays, 08:30~12:30
+- **Houston:** Tuesdays, 11:30~15:30
+- **Vienna:** Tuesdays, 18:30~22:30
 
 # Players and Characters
 
