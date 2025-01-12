@@ -15,7 +15,7 @@ description: Exalted, 3rd Edition game
 %% This is a comment %%
 # Scheduling
 
-Next session (Session 1): **Tuesday, 2025-01-07**
+Next session (Session 1): **Tuesday, 2025-01-14**
 - **Anchorage:** Tuesdays, 08:30~12:30
 - **Houston/Chicago:** Tuesdays, 11:30~15:30
 - **Vienna:** Tuesdays, 18:30~22:30
@@ -23,7 +23,7 @@ Next session (Session 1): **Tuesday, 2025-01-07**
 # Players and Characters
 
 ☼ [Raizo the Urchin Prince](https://docs.google.com/document/d/1GvIo8-rl6z_p_3gyTR6fYdySoik8F3kjiUWv-hPwglA/edit)  
-○ [Come up with a name Kaze](https://docs.google.com/document/d/1CCRsqD_bNo1L037oe_z6Vhfu9YLb0VpFiuZZURb3cLo/edit)  
+○ [Shadow Edge, AKA the River Snake](https://docs.google.com/document/d/1CCRsqD_bNo1L037oe_z6Vhfu9YLb0VpFiuZZURb3cLo/edit)  
 ⦿ [Datei ma Kagemori](https://docs.google.com/document/d/1pabRieiPCZlwwXlzMaEjZqWFV8v9M1tPsGSPlCyKfTM/edit)
 
 # On the Edge of a Sword (Or, Game Pitch)

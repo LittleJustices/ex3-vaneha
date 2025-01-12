@@ -1,6 +1,6 @@
 ---
 title: Raizo's Revolutionaries
-draft: false
+draft: true
 tags:
   - npc
   - rebels
@@ -15,7 +15,7 @@ Have received stage 1 of Tiger Warrior Training Technique, giving them Average d
 Size 1, Drill average, Might 0
 
 **Essence:** 1; **Willpower:** 4; **Join Battle:** 6 dice  
-**Magnitude:** 8/8
+**Magnitude:** 8/8  
 **Appearance** 2, **Resolve** 2, **Guile** 1
 
 ## Intimacies
@@ -29,7 +29,8 @@ Size 1, Drill average, Might 0
 ## Combat
 - Attack (Chopping sword): 7 dice (Damage 12, minimum 2)
 - Attack (Long spear): 5 dice (Damage 14)
-- Attack (Shield bash): 6 dice (12)
+- Attack (Shield bash): 6 dice (Damage 12)
 - Combat Movement: 4 dice
-**Evasion** 3, **Parry** 5
+
+**Evasion** 3, **Parry** 5  
 **Soak/Hardness:** 8/0 (Reinforced buff jacket)
