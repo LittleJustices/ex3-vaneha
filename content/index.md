@@ -15,7 +15,7 @@ description: Exalted, 3rd Edition game
 %% This is a comment %%
 # Scheduling
 
-Next session (Session 1): **Tuesday, 2025-01-14**
+Next session (Session 2): **Tuesday, 2025-01-21**
 - **Anchorage:** Tuesdays, 08:30~12:30
 - **Houston/Chicago:** Tuesdays, 11:30~15:30
 - **Vienna:** Tuesdays, 18:30~22:30
@@ -26,6 +26,9 @@ Next session (Session 1): **Tuesday, 2025-01-14**
 ○ [Shadow Edge, AKA the River Snake](https://docs.google.com/document/d/1CCRsqD_bNo1L037oe_z6Vhfu9YLb0VpFiuZZURb3cLo/edit)  
 ⦿ [Datei ma Kagemori](https://docs.google.com/document/d/1pabRieiPCZlwwXlzMaEjZqWFV8v9M1tPsGSPlCyKfTM/edit)
 
+# Session Logs
+
+![[Session Log Index]]
 # On the Edge of a Sword (Or, Game Pitch)
 
 See also: [[vaneha primer|the setting summary]]; [[setting|more in-depth topics]]

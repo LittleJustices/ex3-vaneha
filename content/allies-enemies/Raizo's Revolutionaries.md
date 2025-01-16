@@ -6,7 +6,7 @@ tags:
   - rebels
 description: That tomorrow may be free
 ---
-# The OGs
+# The Band of the Canopy
 
 **Followers 1 - A dozen skilled bandits and warriors loyal to Raizo and his mission.**
 
