@@ -33,4 +33,4 @@ Size 1, Drill average, Might 0
 - Combat Movement: 4 dice
 
 **Evasion** 3, **Parry** 5  
-**Soak/Hardness:** 8/0 (Reinforced buff jacket)
+**Soak/Hardness:** 8/0 (Reinforced buff jacket)  
