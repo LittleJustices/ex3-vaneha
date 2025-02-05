@@ -15,7 +15,7 @@ description: Exalted, 3rd Edition game
 %% This is a comment %%
 # Scheduling
 
-Next session (Session 2): **Tuesday, 2025-02-04**
+Next session (Session 3): **Tuesday, 2025-02-11**
 - **Anchorage:** Tuesdays, 08:30~12:30
 - **Houston/Chicago:** Tuesdays, 11:30~15:30
 - **Vienna:** Tuesdays, 18:30~22:30
