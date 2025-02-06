@@ -1,5 +1,5 @@
 ---
 title: Allies and Enemies
-draft: true
+draft: false
 ---
 NPCs of note

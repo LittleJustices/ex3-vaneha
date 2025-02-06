@@ -1,6 +1,6 @@
 ---
 title: Raizo's Revolutionaries
-draft: true
+draft: false
 tags:
   - npc
   - rebels
