@@ -15,7 +15,7 @@ Ally 1: Kagemori's elder sister and representative (hostage) in the capital. She
 - Datei ma Kagemori (Big sister has your back.) *Major*
 - Shadow Edge (Respect) *Minor*
 - "A little frivolity is essential in life." *Major*
-- "Whatever happens, Clan Datei will survive." *Defining*
+- "Whatever happens, Clan Datei shall survive." *Defining*
 ## Notable Actions/Mechanics
 (Dice pools for allied, non-combatant NPCs are largely decorative and for intuitive reference, unless a particular scene calls for rolls on their part.)
 

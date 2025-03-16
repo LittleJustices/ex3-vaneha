@@ -27,10 +27,10 @@ Size 1, Drill average, Might 0
 - Threaten: 4 dice
 
 ## Combat
-- Attack (Chopping sword): 7 dice (Damage 12, minimum 2)
-- Attack (Long spear): 5 dice (Damage 14)
-- Attack (Shield bash): 6 dice (Damage 12)
+- Attack (Chopping sword): 8 dice (Damage 13, minimum 2)
+- Attack (Long spear): 6 dice (Damage 15)
+- Attack (Shield bash): 7 dice (Damage 13)
 - Combat Movement: 4 dice
 
 **Evasion** 3, **Parry** 5  
-**Soak/Hardness:** 8/0 (Reinforced buff jacket)  
+**Soak/Hardness:** 9/0 (Reinforced buff jacket)  
