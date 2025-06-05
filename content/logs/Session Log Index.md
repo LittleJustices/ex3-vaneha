@@ -9,3 +9,4 @@ Logs of past sessions, XP awards, and other notable achievements are listed here
 2025-04-23 [[Session 7|Session 7: Blooming Obelisk Isle, Part 2]] – 5 XP  
 2025-05-08 [[Session 8|Session 8: Mother of Orphans]] – 5 XP  
 2025-05-21 [[Session 9|Session 9: Nazubi Gentle Shroud]] – 5 XP  
+2025-06-04 [[Session 10|Session 10: The Blue Legs]] – 5 XP  

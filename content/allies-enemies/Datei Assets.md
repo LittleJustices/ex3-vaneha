@@ -1,6 +1,6 @@
 ---
 title: Datei Assets
-draft: false
+draft: true
 tags:
   - npc
 description: Ghosts of Laris

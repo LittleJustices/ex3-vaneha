@@ -1,6 +1,6 @@
 ---
 title: Raizo's Revolutionaries
-draft: false
+draft: true
 tags:
   - npc
   - rebels
@@ -12,6 +12,9 @@ description: That tomorrow may be free
 
 Have received stage 1 of Tiger Warrior Training Technique, giving them Average drill as a battlegroup and battle-ready troops stats.
 
+https://docs.google.com/document/d/1bWGnWZTrfqQnFaA-mCkxJ0ZQL9Ua9_JJqF269LtlrM4/edit?tab=t.0
+
+%%
 Size 1, Drill average, Might 0
 
 **Essence:** 1; **Willpower:** 4; **Join Battle:** 6 dice  
@@ -34,3 +37,4 @@ Size 1, Drill average, Might 0
 
 **Evasion** 3, **Parry** 5  
 **Soak/Hardness:** 9/0 (Reinforced buff jacket)  
+%%

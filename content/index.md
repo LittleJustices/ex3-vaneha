@@ -15,10 +15,10 @@ description: Exalted, 3rd Edition game
 %% This is a comment %%
 # Scheduling
 
-Next session (Session 10): **Wednesday, 2025-05-28**
-- **Anchorage:** Wednesdays, 08:30~12:30
-- **Houston/Chicago:** Wednesdays, 11:30~15:30
-- **Vienna:** Wednesdays, 18:30~22:30
+Next session (Session 11): **Wednesday, 2025-06-11**
+- **Anchorage:** Wednesdays, 09:00~13:00
+- **Houston/Chicago:** Wednesdays, 12:00~16:00
+- **Vienna:** Wednesdays, 19:00~23:00
 
 # Players and Characters
 
