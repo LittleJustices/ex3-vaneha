@@ -64,7 +64,7 @@ Datei's manager of logistics and transportation. He is an inquisitive fellow, bu
 ## Datei ma Kanano, "Smoking Dragon"
 
 Queenpin of Datei's underworld interests in the outer city of Jibei. A sorceress and alchemist with deep knowledge of incenses and smoke, she is among the voices in the clan that opposed Kagemori's appointment as family head. She's allowed the Band of the Canopy lodging in one of her properties in exchange for the occasional request.
-# Hiruna
+## Hiruna
 
 Kuromi's personal aide and taster when she leaves the Datei compound—the quiet, bespectacled woman who was with Kuromi when the Circle first arrived in Jibei. Native of Dead Laris.
 
@@ -72,6 +72,9 @@ Kuromi's personal aide and taster when she leaves the Datei compound—the quiet
 
 ## The Datei Compound
 
+The Datei residence is humble only in comparison to other clans' mansions. It takes up a block of its own, surrounded by a garden and receiving its own water via aqueduct, as demanded by law. Many clan hostages adorn their gardens in manners reminiscent of their home provinces, and so Kuromi, representing the family without a home, has had strange plants and rocks brought in from Dead Laris. Here is a boulder that has partially turned to glass at the center of an otherwise normal rock garden; there a shrub that's naturally grown to uncannily resemble a sleeping figure.
+
+The garden's central pond always reflects a lightly clouded sky, regardless of the actual weather. This is the entrance to Nazubi's sanctum. Even clan members are rarely invited in, as he prefers to entertain visitors in the garden over tea.
 ## Datei War-Mask
 
 > [!info]- Visual inspiration
