@@ -78,7 +78,7 @@ The garden's central pond always reflects a lightly clouded sky, regardless of t
 ## Datei War-Mask
 
 > [!info]- Visual inspiration
-> ![[ayakashi.jpg]]
+> ![[ayakashi.jpg]]  
 > 
 > http://www.sense-nohgaku.com/noh/articles/syozoku/men_info/ayakashi.php
 
