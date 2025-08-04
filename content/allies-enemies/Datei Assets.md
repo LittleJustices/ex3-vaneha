@@ -79,6 +79,7 @@ The garden's central pond always reflects a lightly clouded sky, regardless of t
 
 > [!info]- Visual inspiration
 > ![[ayakashi.jpg]]
+> 
 > http://www.sense-nohgaku.com/noh/articles/syozoku/men_info/ayakashi.php
 
 "Gifted" to Kagemori by Clan Anori as a token of appreciation for the Circle's discreet rescue of the Anori hostages. It depicts a warrior in their final moments, snarling at death. The mask is old but exquisitely wrought and hardly worn. Its color reminds of yellowed ivory, but it's cool to the touch, as if it were in fact made of stone. The warrior's pointed eyebrows and mustache, swept fiercely outward, are made of many individual threads of shiny grey metal inlaid into the mask. They glitter like a prism as they catch the light and resonate with something at the touch.
