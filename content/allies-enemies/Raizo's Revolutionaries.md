@@ -66,6 +66,7 @@ Size 1, Drill average, Might 0
 - Attack (Billhook): 8 dice (Damage 12, minimum 2)
 - Attack (Grapple): 6 dice (5 dice to control)
 - Combat Movement: 4 dice (+1 when riding crocodiles in water)
+
 **Evasion** 3, **Parry** 5  
 **Soak/Hardness:** 7/0 (Crocodile hide jacket)
 
