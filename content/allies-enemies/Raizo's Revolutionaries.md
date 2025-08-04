@@ -50,18 +50,18 @@ Size 1, Drill average, Might 0
 **Magnitude:** 8/8  
 **Appearance** 1, **Resolve** 2, **Guile** 1  
 
-## Intimacies
+### Intimacies
 
 - Oboscu (Trust and admiration) *Major*
 - Raizo (Loyalty) *Minor*
 
-## Actions
+### Actions
 - Senses: 4 dice
 - Stealth: 5 dice
 - Threaten: 4 dice
 - Tracking: 4 dice
 
-## Combat
+### Combat
 - Attack (Self bow): 10 dice at short range (Damage 11)
 - Attack (Billhook): 8 dice (Damage 12, minimum 2)
 - Attack (Grapple): 6 dice (5 dice to control)
@@ -70,7 +70,7 @@ Size 1, Drill average, Might 0
 **Evasion** 3, **Parry** 5  
 **Soak/Hardness:** 7/0 (Crocodile hide jacket)
 
-## Merits
+### Merits
 - Iron Stomach: -2 difficulty on Survival to forage and Resistance to recover from food poisoning
 - Strong Lungs: Hold breath for 4 minutes out of combat or 8 rounds in combat. This will usually give an appreciable benefit to launching surprise attacks.
 
