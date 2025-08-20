@@ -12,3 +12,4 @@ Logs of past sessions, XP awards, and other notable achievements are listed here
 2025-06-04 [[Session 10|Session 10: The Blue Legs, Part 1]] – 5 XP  
 2025-06-27 [[Session 11|Session 11: The Blue Legs, Part 2]] – 5 XP  
 2025-07-09 [[Session 12|Session 12: The Blue Legs, Part 2 (continued)]] – 5 XP; joined by [[Raizo's Revolutionaries#The Blue Legs|The Blue Legs]]  
+2025-08-13 [[Session 13|Session 13: Journey to Nathir]] – 5 XP; discovered the Sword Prince's Rose of Millions, arrived at Nathir
