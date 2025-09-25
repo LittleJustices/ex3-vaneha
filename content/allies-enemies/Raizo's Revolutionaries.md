@@ -17,10 +17,10 @@ https://docs.google.com/document/d/1bWGnWZTrfqQnFaA-mCkxJ0ZQL9Ua9_JJqF269LtlrM4/
 After a week's training, the Blue Legs join the band and make it a Size 2 battlegroup with the same statistics.
 
 
-Size 1, Drill average, Might 0
+Size 2, Drill average, Might 0
 
 **Essence:** 1; **Willpower:** 4; **Join Battle:** 6 dice  
-**Magnitude:** 9/9  
+**Magnitude:** 4/9  
 **Appearance** 2, **Resolve** 2, **Guile** 1
 
 ## Intimacies

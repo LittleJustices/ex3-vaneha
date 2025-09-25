@@ -15,4 +15,5 @@ Logs of past sessions, XP awards, and other notable achievements are listed here
 2025-08-13 [[Session 13|Session 13: Journey to Nathir]] – 5 XP; discovered the Sword Prince's Rose of Millions, arrived at Nathir  
 2025-08-21 [[Session 14|Session 14: The House of Thirty Seals]] – 5XP  
 2025-09-03 [[Session 15|Session 15: Gensuji's Army, Part 1]] – 5 XP  
-2025-09-18 [[Session 16|Session 16: Gensuji's Army, Part 2]] – 5 XP
+2025-09-18 [[Session 16|Session 16: Gensuji's Army, Part 2]] – 5 XP  
+2025-09-25 [[Session 17|Session 17: Blood Ape Hunt]] – 5 XP
