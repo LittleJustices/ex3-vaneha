@@ -17,3 +17,5 @@ Logs of past sessions, XP awards, and other notable achievements are listed here
 2025-09-03 [[Session 15|Session 15: Gensuji's Army, Part 1]] – 5 XP  
 2025-09-18 [[Session 16|Session 16: Gensuji's Army, Part 2]] – 5 XP  
 2025-09-25 [[Session 17|Session 17: Blood Ape Hunt]] – 5 XP
+2025-10-08 [[Session 18|Session 18: The Demons Subdued]] – 5 XP
+2025-11-06 [[Session 19|Session 19: Nathir Surrenders]] – 5 XP
