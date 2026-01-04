@@ -16,6 +16,9 @@ Logs of past sessions, XP awards, and other notable achievements are listed here
 2025-08-21 [[Session 14|Session 14: The House of Thirty Seals]] – 5XP  
 2025-09-03 [[Session 15|Session 15: Gensuji's Army, Part 1]] – 5 XP  
 2025-09-18 [[Session 16|Session 16: Gensuji's Army, Part 2]] – 5 XP  
-2025-09-25 [[Session 17|Session 17: Blood Ape Hunt]] – 5 XP
-2025-10-08 [[Session 18|Session 18: The Demons Subdued]] – 5 XP
-2025-11-06 [[Session 19|Session 19: Nathir Surrenders]] – 5 XP
+2025-09-25 [[Session 17|Session 17: Blood Ape Hunt]] – 5 XP  
+2025-10-08 [[Session 18|Session 18: The Demons Subdued]] – 5 XP  
+2025-11-06 [[Session 19|Session 19: Nathir Surrenders]] – 5 XP  
+2025-11-13 [[Session 20|Session 20: The Stolen Daiklave]] – 5 XP  
+2025-12-11: [[Session 21|Session 21: Footstep Shrine, Part 1]] – 5 XP, met ??? and learned of the Fivescore Fellowship  
+2025-12-18: [[Session 22|Session 22: Footstep Shrine, Part 2]] – 5 XP, discovered Sakamori's armor and the Datei War Mask's special powers  

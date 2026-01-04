@@ -17,6 +17,9 @@ Ally 1: Kagemori's elder sister and representative (hostage) in the capital. She
 - Shadow Edge (Respect) *Minor*
 - "A little frivolity is essential in life." *Major*
 - "Whatever happens, Clan Datei shall survive." *Defining*
+%%
+- Zeaki (Infatuation) *Minor*
+%%
 ## Notable Actions/Mechanics
 (Dice pools for allied, non-combatant NPCs are largely decorative and for intuitive reference, unless a particular scene calls for rolls on their part.)
 
@@ -42,19 +45,20 @@ TBA
 
 TBA
 
-%%
+
 (Dice pools for allied, non-combatant NPCs are largely decorative and for intuitive reference, unless a particular scene calls for rolls on their part.)
 
 - **Weather Prediction:** 6 dice (8 dice in summer)
 - **Stealth:** 9 dice
 - **Knowledge of the 99 Stars' Affairs:** 7 dice
+- **Knowledge of Heaven**: 6 dice
 - **Perfectly Timed Distractions:** 8 dice
 - **Measure the Wind:** Nazubi Gentle Shroud may take the measure of anyone who swears him to secrecy.
 - **Voices Lost in Rain:** Nazubi treats social influence attempting to make him divulge information he's agreed to keep secret as unacceptable.
-- Some Eclipse charm to do with summoning a light rainshower as an environmental prop that I might write up if Kagemori is interested.
+- **Name TBA** (?m; Simple; One Scene, Essence ?; Eclipse): Nazubi summons a light rainshower from an at least lightly clouded sky. Wherever its soft patter is audible, other sounds avoid ears they're not meant for, and a Difficulty 1 Perception+Awareness check is required to overhear casual conversation, unhurried footsteps, and sounds of similar volume at short range or beyond. If the sound is meant to be actively hidden, the rain imposes a -3 penalty to Awareness rolls as if it were a torrential downpour, though it is no more conspicuous. The sounds of open battle will cut through this veil like a sword through a silk curtain, but a quiet assassination or a muffled struggle could benefit from the penalty.
 - Presumably other powers, too, this is just meant to be a guide to helpful abilities that I wrote up quickly
 
-%%
+
 
 # Lieutenants
 
