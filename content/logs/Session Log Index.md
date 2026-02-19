@@ -23,4 +23,5 @@ Logs of past sessions, XP awards, and other notable achievements are listed here
 2025-12-11: [[Session 21|Session 21: Footstep Shrine, Part 1]] – 5 XP, met ??? and learned of the Fivescore Fellowship  
 2025-12-18: [[Session 22|Session 22: Footstep Shrine, Part 2]] – 5 XP, discovered Sakamori's armor and the Datei War Mask's special powers  
 2026-01-29: [[Session 23|Session 23: Nathir Has Fallen]] – 5 XP  
-2026-02-11: [[Session 24|Session 24: Council at the Datei Estate]] – 5 XP  
+2026-02-12: [[Session 24|Session 24: Council at the Datei Estate]] – 5 XP  
+2026-02-19: [[Session 25|Session 25: Kamo and Moka]] – 5 XP  
