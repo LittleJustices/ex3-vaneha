@@ -27,3 +27,4 @@ Logs of past sessions, XP awards, and other notable achievements are listed here
 2026-02-12 [[2026-02-12 Session 25|Session 25: Council at the Datei Estate]] – 5 XP  
 2026-02-19 [[2026-02-19 Session 26|Session 26: Kamo and Moka]] – 5 XP  
 2026-02-26 [[2026-02-26 Session 27|Session 27: The Cometborn]] – 5 XP; Learned about Cometborn Zhang and his tomb in Dead Laris  
+2026-04-02 [[2026-04-03 Session 28 Part 1|Session 28, Part 1: Dead Laris]]  
