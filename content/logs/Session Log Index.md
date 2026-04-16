@@ -29,3 +29,4 @@ Logs of past sessions, XP awards, and other notable achievements are listed here
 2026-02-26 [[2026-02-26 Session 27|Session 27: The Cometborn]] – 5 XP; Learned about Cometborn Zhang and his tomb in Dead Laris  
 2026-04-02 [[2026-04-02 Session 28 Part 1|Session 28, Part 1: Dead Laris]]  
 2026-04-09 [[2026-04-09 Session 28 Part 2|Session 28, Part 2: Hundred Gasps Lake]]  
+2026-04-16 [[2026-04-16 Session 28 Part 3|Session 28, Part 3: The Rukh]] – 5 XP; the carcass of a legendary bird  
