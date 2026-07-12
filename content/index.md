@@ -15,7 +15,7 @@ description: Exalted, 3rd Edition game
 %% This is a comment %%
 # Scheduling
 
-Next session (Session 29 Part 3): **Thursday, 2026-06-25**
+Next session (Session 29 Part 3): **Thursday, 2026-07-09**
 - **Anchorage:** Thursdays, 09:00~13:00
 - **Houston/Chicago:** Thursdays, 12:00~16:00
 - **Vienna:** Thursdays, 19:00~23:00

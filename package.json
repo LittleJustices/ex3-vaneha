@@ -1,27 +1,8 @@
 {
   "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
-  "private": true,
   "version": "4.2.3",
-  "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
-  "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
-  },
-  "scripts": {
-    "docs": "npx quartz build --serve -d docs",
-    "check": "tsc --noEmit && npx prettier . --check",
-    "format": "npx prettier . --write",
-    "test": "tsx ./quartz/util/path.test.ts && tsx ./quartz/depgraph.test.ts",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
-  },
-  "engines": {
-    "npm": ">=9.3.1",
-    "node": ">=18.14"
-  },
+  "private": true,
+  "description": "🌱 publish your digital garden and notes as a website",
   "keywords": [
     "site generator",
     "ssg",
@@ -30,8 +11,30 @@
     "blog",
     "quartz"
   ],
+  "homepage": "https://quartz.jzhao.xyz",
+  "bugs": {
+    "url": "https://github.com/jackyzha0/quartz/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackyzha0/quartz.git"
+  },
+  "license": "MIT",
+  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "type": "module",
+  "main": "index.js",
   "bin": {
-    "quartz": "./quartz/bootstrap-cli.mjs"
+    "quartz": "quartz/bootstrap-cli.mjs"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs": "npx quartz build --serve -d docs",
+    "check": "tsc --noEmit && npx prettier . --check",
+    "format": "npx prettier . --write",
+    "test": "tsx ./quartz/util/path.test.ts && tsx ./quartz/depgraph.test.ts",
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },
   "dependencies": {
     "@clack/prompts": "^0.7.0",
@@ -42,7 +45,7 @@
     "chokidar": "^3.6.0",
     "cli-spinner": "^0.2.10",
     "d3": "^7.8.5",
-    "esbuild-sass-plugin": "^2.16.1",
+    "esbuild-sass-plugin": "^3.7.0",
     "flexsearch": "0.7.43",
     "github-slugger": "^2.0.0",
     "globby": "^14.0.1",
@@ -100,9 +103,16 @@
     "@types/source-map-support": "^0.5.10",
     "@types/ws": "^8.5.10",
     "@types/yargs": "^17.0.32",
-    "esbuild": "^0.19.9",
+    "esbuild": "^0.28.1",
     "prettier": "^3.2.4",
     "tsx": "^4.7.1",
     "typescript": "^5.3.3"
+  },
+  "engines": {
+    "npm": ">=9.3.1",
+    "node": ">=18.14"
+  },
+  "allowScripts": {
+    "esbuild@0.19.12": true
   }
 }
