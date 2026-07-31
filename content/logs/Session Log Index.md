@@ -33,3 +33,4 @@ Logs of past sessions, XP awards, and other notable achievements are listed here
 2026-06-04 [[2026-06-04 Session 29 Part 1|Session 29, Part 1: The Dead Observatory]]  
 2026-06-18 [[2026-06-18 Session 29 Part 2|Session 29, Part 2: The Suzugion]]  
 2026-07-02 [[2026-07-02 Session 29 Part 3|Session 29, Part 3: The Galleries]] – 5 XP  
+2026-07-30 [[2026-07-30 Session 30 Part 1|Session 30, Part 1: The Observatory]]  
