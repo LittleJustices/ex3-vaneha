@@ -79,18 +79,6 @@ Kuromi's personal aide and taster when she leaves the Datei compound—the quiet
 The Datei residence is humble only in comparison to other clans' mansions. It takes up a block of its own, surrounded by a garden and receiving its own water via aqueduct, as demanded by law. Many clan hostages adorn their gardens in manners reminiscent of their home provinces, and so Kuromi, representing the family without a home, has had strange plants and rocks brought in from Dead Laris. Here is a boulder that has partially turned to glass at the center of an otherwise normal rock garden; there a shrub that's naturally grown to uncannily resemble a sleeping figure.
 
 The garden's central pond always reflects a lightly clouded sky, regardless of the actual weather. This is the entrance to Nazubi's sanctum. Even clan members are rarely invited in, as he prefers to entertain visitors in the garden over tea.
-## Datei War-Mask
-
-> [!info]- Visual inspiration
-> ![[ayakashi.jpg]]  
-> 
-> http://www.sense-nohgaku.com/noh/articles/syozoku/men_info/ayakashi.php
-
-"Gifted" to Kagemori by Clan Anori as a token of appreciation for the Circle's discreet rescue of the Anori hostages. It depicts a warrior in their final moments, snarling at death. The mask is old but exquisitely wrought and hardly worn. Its color reminds of yellowed ivory, but it's cool to the touch, as if it were in fact made of stone. The warrior's pointed eyebrows and mustache, swept fiercely outward, are made of many individual threads of shiny grey metal inlaid into the mask. They glitter like a prism as they catch the light and resonate with something at the touch.
-
-Though Kagemori doesn't know it yet, it gives its wearer two abilities:
-- When a warrior under their command or otherwise fighting for their sake dies, the wearer can learn the deceased's most dearly held defining intimacy as if through an automatically successful reflexive read intentions action, if the dead warrior was significant enough in the story to have their intimacies represented individually.
-- The wearer can make a special (dicepool to be determined) roll to introduce facts involving the defining or major intimacies of warriors who have died fighting for them or under their command.
 
 # Dead Laris
 
