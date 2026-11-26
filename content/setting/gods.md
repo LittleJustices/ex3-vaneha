@@ -1,7 +1,9 @@
 ---
 title: The Ninety-Nine Stars
 draft: false
-tags: []
+tags:
+  - 99-stars
+  - npc
 ---
 
 > Pombo the idolater took a stick and suddenly turned iconoclast. 

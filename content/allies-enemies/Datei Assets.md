@@ -58,8 +58,9 @@ TBA
 - **Name TBA** (?m; Simple; One Scene, Essence ?; Eclipse): Nazubi summons a light rainshower from an at least lightly clouded sky. Wherever its soft patter is audible, other sounds avoid ears they're not meant for, and a Difficulty 1 Perception+Awareness check is required to overhear casual conversation, unhurried footsteps, and sounds of similar volume at short range or beyond. If the sound is meant to be actively hidden, the rain imposes a -3 penalty to Awareness rolls as if it were a torrential downpour, though it is no more conspicuous. The sounds of open battle will cut through this veil like a sword through a silk curtain, but a quiet assassination or a muffled struggle could benefit from the penalty.
 - Presumably other powers, too, this is just meant to be a guide to helpful abilities that I wrote up quickly
 
+# The Diaspora
 
-
+TBA
 # Lieutenants
 
 ## Nosy Fao
@@ -70,16 +71,10 @@ Datei's manager of logistics and transportation. He is an inquisitive fellow, bu
 Queenpin of Datei's underworld interests in the outer city of Jibei. A sorceress and alchemist with deep knowledge of incenses and smoke, she is among the voices in the clan that opposed Kagemori's appointment as family head. She's allowed the Band of the Canopy lodging in one of her properties in exchange for the occasional request.
 ## Hiruna
 
-Kuromi's personal aide and taster when she leaves the Datei compound—the quiet, bespectacled woman who was with Kuromi when the Circle first arrived in Jibei. Native of Dead Laris.
+Kuromi's personal aide and taster when she leaves the Datei compound. A native of Dead Laris, she is wise in exotic fauna and all the ways it might kill you as well as an expert in poisons and antidotes. Her passion for the subject occasionally falls short of being entirely appropriate, but her loyalty to Kuromi is unshakable.
 
-# Possessions
-
-## The Datei Compound
+# The Datei Compound
 
 The Datei residence is humble only in comparison to other clans' mansions. It takes up a block of its own, surrounded by a garden and receiving its own water via aqueduct, as demanded by law. Many clan hostages adorn their gardens in manners reminiscent of their home provinces, and so Kuromi, representing the family without a home, has had strange plants and rocks brought in from Dead Laris. Here is a boulder that has partially turned to glass at the center of an otherwise normal rock garden; there a shrub that's naturally grown to uncannily resemble a sleeping figure.
 
 The garden's central pond always reflects a lightly clouded sky, regardless of the actual weather. This is the entrance to Nazubi's sanctum. Even clan members are rarely invited in, as he prefers to entertain visitors in the garden over tea.
-
-# Dead Laris
-
-When foreigners hear of Dead Laris, they often imagine a vast Shadowland, a black scar upon Creation. But the fate of the Pox Plains is both more and less tragic than this, for the silence that hangs over its dry lands are all too much of this world. Once, a civilization thrived on the banks of Hundred Tongues Lake, nestled between the Smoky, Maruto, and Sandy rivers. A rich if politically unimportant province of the Shogunate, the lands of Laris emerged from the dual catastrophes of the Great Contagion and the Raksha invasion less damaged than many other Eastern provinces, due in part due to drawing back to the archipelago in the center of the lake. Aided by a population of First Age Automatons, Laris began to rebuild, no longer a mere province but a powerful federation of city-states. Unity would not last, however, and struggles to lead the federation grew more bitter and more intense with each passing generation, until mortal greed did what even Balor could not, with the vaporization of the entire lake in the event referred to as Hesiesh's Breath. Stories often claim this was due to some singular weapon, but this is likely just to simplify the stories. Where lush waters once were are now dusty plains, and where great cities once stood are now ruins.

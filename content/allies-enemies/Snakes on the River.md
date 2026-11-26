@@ -9,3 +9,6 @@ description: You didn't need that anyway
 
 Followers 2: A small gang of fellow thieving treasure hunters
 
+# Vend
+
+# Trade Network in Nathir
