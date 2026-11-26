@@ -43,7 +43,7 @@ Iachi rules the rolling hills of Orm, where the clan produces wines renowned thr
 
 **Deity:** Kanagi the Certain
 
-At one point Raizo's home clan. Notoriously self-involved, the crab god Kanagi largely lacks interest in the greater game of clan politics and is content to lead a minor clan charged with a minor domain, leaving Kakani's leadership to meet the bare minimum of their obligations to the sword as they see fit. But the inhabitants of Kanagi's domain know their god as a researcher and a scholar, not simply a surly hermit.
+At one point Raizo's home clan. Notoriously self-involved, the crab god Kanagi largely lacks interest in the greater game of clan politics and is content to lead a minor clan charged with a minor domain, leaving Kakani's leadership to meet the bare minimum of their obligations to the Sword as they see fit. But the inhabitants of Kanagi's domain know their god as a researcher and a scholar, not simply a surly hermit.
 ## Maon
 
 **Deities:** Kamo and Moka of the Stony Banks
