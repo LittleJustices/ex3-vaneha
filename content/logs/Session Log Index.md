@@ -37,3 +37,6 @@ Logs of past sessions, XP awards, and other notable achievements are listed here
 2026-08-27 [[2026-08-27 Session 30 Part 2|Session 30, Part 2: The Cometborn's Tomb]] – 5 XP  
 2026-09-10 [[2026-09-10 Session 31 Part 1|Session 31, Part 1: Dreams of the First Age]]  
 2026-09-17 [[2026-09-17 Session 31 Part 2|Session 31, Part 2: New Directions]]  
+2026-10-08 [[2026-10-08 Session 31 Part 3|Session 31, Part 3: Games Before the Gods]]  
+2026-11-12 [[2026-11-12 Session 31 Part 4|Session 31, Part 4: The Eyes of Heaven]]  
+2026-11-26 [[2026-11-26 Session 31 Part 5|Session 31, Part 5: What is Vaneha?]] – 5 XP  
