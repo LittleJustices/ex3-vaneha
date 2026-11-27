@@ -4,7 +4,7 @@ draft: false
 tags:
   - 99-stars
   - npc
-description: The Sword's edge
+description: The hand on the Sword
 ---
 # Sword Prince Gensuji
 
@@ -23,7 +23,7 @@ description: The Sword's edge
 
 - "We have a duty to protect Vaneha from all threats." **Defining**
 - Gensuji (Exasperated Loyalty) **Major**
-- A **minor** intimacy towards [[Datei Assets#Datei Ma Kuromi|Datei ma Kuromi]] with unknown context
+- A **minor** intimacy towards [[datei#Datei Ma Kuromi|Datei ma Kuromi]] with unknown context
 # Heimonji, Sword Prince Emeritus, Gensuji's Father
 
 ## Intimacies

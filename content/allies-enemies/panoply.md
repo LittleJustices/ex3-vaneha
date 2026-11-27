@@ -4,6 +4,7 @@ draft: false
 tags:
 description: Treasures of Legend
 ---
+This page collects details about notable treasures and artifacts the circle has collected or found.
 # Sakamori's Armor
 **White Jade Breastplate, Artifact 3**
 

@@ -11,9 +11,14 @@ Family is everything in Vaneha. Each of the [[gods|Ninety-Nine Stars]] (the true
 
 Each clan is led by one family, which has the clan god's favor. If the god is their clan's spiritual parent, the ruling family is the eldest sibling. They administer the clan's holdings and name local deputies to steward particular towns, estates, and tracts of land. These stewards[^1] in turn lease the land to tenant farmers or otherwise put it to use for the clan's and state's benefit—so long as they can pay their own lease to the ruling family, the steward is free to reap the profit.
 
-[^1]: Across the Eight Directions outright calls them jitō, which has a weird ring to me since that's a relatively deep cut/specific terminology. Maybe it's fine.
+[^1]: Across the Eight Directions outright calls them *jitō*, which has a weird ring to me since that's a relatively deep cut/specific terminology. Maybe it's fine.
+# The Sword Princes
+
+**Deity:** The First and Hundredth
 
 As the ruling families are their clan's elders, so is the Sword Prince's line senior to the clans. The Sword Princes personally claim only the land immediately surrounding Ama-Ni-Traya, including the capital, as well as a few other strategic spots, but reserve for themselves the right to parcel out regions among the clans in exchange for taxes and corvée labor, legitimized by their possession of the Imperial Daiklave. Their patron likewise is foremost among the gods, the First and Hundredth of the Ninety-Nine Stars.
+
+See [[sword-princes|Gensuji's Court]].
 
 # Individual Clans
 These clans have appeared in-game, directly or in passing.
@@ -31,7 +36,7 @@ The Anori's patron is Chohie, whose domain is the echoing mountain slopes and th
 
 Once, the Datei stood at the top. Their fall to the bottom became the stuff of plays, epics, and cautionary tales for generations since. Now they are a shadow-clan, without a homeland, which in Vaneha means they are nothing. Yet they have survived in exile by making themselves useful as shadows to the clans and to the Sword, and with the end of the civil war they clawed themselves a way back into the capital.
 
-See [[Datei Assets]].
+See [[datei|Datei Assets]].
 ## Iachi
 
 **Deity:** Jieke Blooms-in-Winter
@@ -70,10 +75,3 @@ The Saoto deity did not descend from Heaven with the other Stars but was origina
 **Deity:** Megemi Ironhilt
 
 Clan Uema rules in the city of Noru, where anvils ring day and night. It was the clan's patron, Megemi Ironhilt, who pioneered the forging of the sacred metal of Agate Lake, and to this day, the Uema arm Vaneha's soldiers, securing them a comfortable place among the clans closest to the Sword.
-## The Imperial Clan
-
-**Deity:** The First and Hundredth
-
-The Sword Princes rule Vaneha, legitimized by the patronage of the First and Hundredth of the Ninety-Nine Stars and their possession of the Imperial Daiklave. They claim no provinces of their own save the capital Jibei and select strategic areas across the country but collect tribute from the clans and ensure their loyalty by means of the hostage-guests the Sword permanently entertains in Jibei. Possession of the Daiklave is hereditary, but the exact line of succession is determined within the imperial family by means outsiders are not privy to, likely involving the candidate's ability to wield the Imperial Daiklave.
-
-See [[Vaneha/quartz/ex3-vaneha/content/allies-enemies/Gensuji's Court|Gensuji's Court]].

@@ -8,10 +8,10 @@ Logs of past sessions, XP awards, and other notable achievements are listed here
 2025-04-09 [[2025-04-09 Session 6|Session 6: Blooming Obelisk Isle, Part 1]] – 5 XP  
 2025-04-23 [[2025-04-23 Session 7|Session 7: Blooming Obelisk Isle, Part 2]] – 5 XP  
 2025-05-08 [[2025-05-08 Session 8|Session 8: Mother of Orphans]] – 5 XP  
-2025-05-21 [[2025-05-21 Session 9|Session 9: Nazubi Gentle Shroud]] – 5 XP; gifted the [[Datei Assets#Datei War-Mask|Datei War-Mask]]  
+2025-05-21 [[2025-05-21 Session 9|Session 9: Nazubi Gentle Shroud]] – 5 XP; gifted the [[datei#Datei War-Mask|Datei War-Mask]]  
 2025-06-04 [[2025-06-04 Session 10|Session 10: The Blue Legs, Part 1]] – 5 XP  
 2025-06-27 [[2025-06-27 Session 11|Session 11: The Blue Legs, Part 2]] – 5 XP  
-2025-07-09 [[2025-07-09 Session 12|Session 12: The Blue Legs, Part 2 (continued)]] – 5 XP; joined by [[Raizo's Revolutionaries#The Blue Legs|The Blue Legs]]  
+2025-07-09 [[2025-07-09 Session 12|Session 12: The Blue Legs, Part 2 (continued)]] – 5 XP; joined by [[revolutionaries#The Blue Legs|The Blue Legs]]  
 2025-08-13 [[2025-08-13 Session 13|Session 13: Journey to Nathir]] – 5 XP; discovered the Sword Prince's Rose of Millions, arrived at Nathir  
 2025-08-21 [[2025-08-21 Session 14|Session 14: The House of Thirty Seals]] – 5XP  
 2025-09-03 [[2025-09-03 Session 15|Session 15: Gensuji's Army, Part 1]] – 5 XP  
